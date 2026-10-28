@@ -1,0 +1,7 @@
+{
+  "douyin_cookie": {
+    "description": "抖音登录态 cookie（浏览器 F12 复制整串）。留空则抖音功能不可用，B站不受影响。",
+    "type": "string",
+    "default": ""
+  }
+}

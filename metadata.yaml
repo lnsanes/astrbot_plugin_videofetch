@@ -1,0 +1,6 @@
+name: astrbot_plugin_videofetch
+display_name: 视频拉取
+desc: B站/抖音视频信息与下载、B站UP主动态总结
+version: v1.0.0
+author: 小肥鱼
+repo: https://github.com/
